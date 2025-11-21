@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+:root {
+  --primary-color: oklch(0.3951 0.1569 22);
+  --text-color: oklch(0.9702 0 0);
+}
