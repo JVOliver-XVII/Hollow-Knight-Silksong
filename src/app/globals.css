@@ -1,18 +1,28 @@
 @import "tailwindcss";
 
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  font-family: system-ui, -apple-system, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-raleway), system-ui, -apple-system, sans-serif;
   background-color: var(--primary-color);
   color: var(--text-color);
 }
 
 :root {
-  --primary-color: oklch(0.3951 0.1569 22);
+  --primary-color: oklch(21.074% 0.06599 40.099);
   --text-color: oklch(0.9702 0 0);
+}
+
+.bg-gradient-radial {
+  background: radial-gradient(
+    ellipse 65% 69% at center,
+    transparent 0%,
+    oklch(21.074% 0.06599 40.099 / 0.2) 50%,
+    oklch(21.074% 0.06599 40.099 / 0.6) 70%,
+    oklch(21.074% 0.06599 40.099) 90%
+  );
 }

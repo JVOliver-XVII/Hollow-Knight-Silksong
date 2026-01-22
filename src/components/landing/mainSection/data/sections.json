@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "O Que é Hollow Knight: Silksong?",
+    "description": "Se você viveu numa caverna nos últimos anos, Silksong é a sequência do aclamado Hollow Knight, desenvolvido pela Team Cherry. Mas já vou avisando: não é apenas 'mais do mesmo'. Enquanto o primeiro jogo era sobre paciência e combate metódico, Silksong é sobre velocidade e letalidade. Você controla a Hornet, a princesa-protetora de Hallownest. Diferente do Cavaleiro do primeiro jogo (que era baixinho e lento), a Hornet é ágil, acrobática e fala (sim, ela tem diálogos!). O jogo é um Metroidvania clássico: um mapa gigante interconectado onde você precisa ganhar novas habilidades para acessar áreas bloqueadas. A grande mudança aqui é o ritmo. Você pode se curar instantaneamente no meio do pulo (usando Seda em vez de Alma), escalar bordas rapidamente e usar um arsenal de ferramentas 'craftáveis'. É um jogo mais agressivo, feito para quem gosta de combate rápido e exploração vertical.",
+    "image": "promo",
+    "imagePosition": "left"
+  },
+  {
+    "id": 2,
+    "title": "Explore Pharloom",
+    "description": "Esqueça a vibe gótica e escura de Hallownest. O cenário agora é Pharloom, um reino antigo que foi governado pela Seda e pela Canção. A maior diferença estrutural? Em vez de descer para as profundezas da terra, seu objetivo é subir. A jornada começa no fundo do poço, num lugar úmido e cheio de musgo, e sua meta é alcançar a Cidadela Brilhante no topo do mundo. O design de mapa reflete essa verticalidade: as áreas são torres gigantescas, cidades de ouro suspensas e cavernas de lava que exigem muita plataforma precisa. Pharloom é lindo, mas é um tipo diferente de beleza — é dourado, vistoso e barulhento. O reino não está 'morto' como Hallownest; ele está preso em uma espécie de transe religioso macabro causado por sinos e músicas que tocam o tempo todo. É um lugar que parece sagrado, mas é totalmente hostil.",
+    "image": "grotto",
+    "imagePosition": "right"
+  },
+  {
+    "id": 3,
+    "title": "Um Novo Nível de Combate",
+    "description": "Aqui a Team Cherry subiu o nível. Os inimigos em Silksong são muito mais inteligentes. Em Hollow Knight, a maioria dos bichos eram 'zumbis' infectados que corriam na sua direção. Em Pharloom, você luta contra guerreiros treinados, autômatos de metal e bestas que tentam prever seus movimentos. A Elite: Muitos inimigos usam armaduras que desviam seus golpes, obrigando você a atacar por trás ou usar ferramentas explosivas. Os Rivais: O destaque vai para os chefes que agem como rivais recorrentes, principalmente a Lace. Ela é uma esgrimista que usa um alfinete (igual a Hornet usa a agulha) e aparece várias vezes durante a campanha para testar suas habilidades. As lutas contra ela são rápidas, parecendo uma dança mortal. A Fauna: Além dos guerreiros do culto, o jogo tem monstros mecânicos bizarros e criaturas da floresta que usam camuflagem. Resumindo: se no primeiro jogo você se sentia um explorador solitário num cemitério, aqui você se sente uma presa fugindo (e caçando) num reino que quer te capturar vivo.",
+    "image": "lace",
+    "imagePosition": "left"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "Hornet",
+    "role": "protagonist",
+    "description": "A princesa-protetora de Hallownest e protagonista de Silksong. Diferente do Cavaleiro silencioso, Hornet é ágil, vocal e letal. Capturada e levada ao reino de Pharloom, ela deve escalar do fundo até a Cidadela no topo, enfrentando guerreiros, bestas e os mistérios da Canção Eterna. Armada com sua Agulha e habilidades de seda, Hornet representa velocidade, precisão e determinação implacável.",
+    "image": "hornet",
+    "abilities": [
+      {
+        "name": "Lança de Seda",
+        "description": "Ataque jogando a agulha para frente. Seda será expandida"
+      },
+      {
+        "name": "Manto Errante",
+        "description": "Agite a capa para aproveitar os ventos fortes e planar suavemente."
+      },
+      {
+        "name": "Passo Veloz",
+        "description": "Uma corrida em alta velocidade, além dos limites naturais. Persiga sua presa e salte grandes distâncias."
+      },
+      {
+        "name": "Garra Aderente",
+        "description": "Agarre-se a superfícies íngremes e salte para escalar alturas rapidamente."
+      },
+      {
+        "name": "Agulino",
+        "description": "Toque melodias ancestrais ao entrelaçar Seda ao longo da agulha."
+      },
+      {
+        "name": "Garra de Seda",
+        "description": "Dispare a agulha como um arpão e projete-se com força até ela. Seda será expandida. Golpeie inimigos para regenerar Seda."
+      },
+      {
+        "name": "Manto de Plumídio",
+        "description": "Lendária plumagem, revestindo o interior do manto. Salte novamente em pleno ar. Plane sobre os inimigos. Alcance novas alturas. Golpeie de cima."
+      },
+      {
+        "name": "Turbilhão de Fios",
+        "description": "Ataque criando uma tempestade de Seda ao redor. Habilidades de Seda podem ser equipadas na tela Brasão do Menu."
+      },
+      {
+        "name": "Dardo Afiado",
+        "description": "Perfure os inimigos em um turbilhão de lâmina e Seda."
+      },
+      {
+        "name": "Ataque de Foco",
+        "description": "Carregue o poder na agulha e libere-o como um ataque mortal."
+      },
+      {
+        "name": "Ponto Cruz",
+        "description": "Vincule Seda ao redor da agulha para desviar ataques inimigos e contra-atacar instantaneamente."
+      },
+      {
+        "name": "Fúria de Runas",
+        "description": "Teça runas de Seda ardente nos inimigos."
+      },
+      {
+        "name": "Silfonia",
+        "description": "Contém a alma e a força de Eva. Seda será regenerada enquanto descansa em um banco"
+      },
+      {
+        "name": "Impulso de Seda",
+        "description": "Dispare a agulha para cima e projete-se a alturas impressionantes. Seda será expandida."
+      },
+      {
+        "name": "Ferrões Pálidos",
+        "description": "Gire criando garras letais a partir de fios que perseguem os inimigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lace",
+    "role": "boss",
+    "description": "A principal rival de Hornet e uma esgrimista letal que empunha um Alfinete Dourado. Sarcástica e misteriosa, Lace cruza o caminho de Hornet diversas vezes, transformando os combates em verdadeiras danças de alta velocidade. Ela parece menos interessada em parar a protagonista e mais focada em testar suas habilidades, guardando segredos sobre a natureza da seda de Pharloom.",
+    "image": "lace",
+    "abilities": [
+      {
+        "name": "Lança de Seda",
+        "description": "Série de estocadas extremamente rápidas com o Alfinete Dourado. Padrão de ataque principal, exigindo timing perfeito para esquiva."
+      },
+      {
+        "name": "Aerial Dance",
+        "description": "Combo aéreo em espiral onde Lace rotaciona no ar enquanto desfere múltiplos golpes. Cobre grande área vertical."
+      },
+      {
+        "name": "Thread Parry",
+        "description": "Contra-ataque com fios de seda. Se Hornet atacar no momento errado, Lace retalia com um golpe crítico."
+      },
+      {
+        "name": "Silk Dash",
+        "description": "Dash horizontal ultra-rápido que atravessa a arena instantaneamente. Difícil de rastrear visualmente."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Seth",
+    "role": "npc",
+    "description": "Um guardião antigo e incansável que protege o caminho para a Cidadela. Conhecido por sua velocidade extrema e tenacidade, Seth é um guerreiro leal que desafia qualquer um que tente ascender. Seus ataques são ferozes e implacáveis, servindo como um teste brutal de reflexos para Hornet, representando a última linha de defesa de segredos esquecidos.",
+    "image": "seth",
+    "abilities": [
+      {
+        "name": "Relentless Pursuit",
+        "description": "Perseguição implacável em alta velocidade. Seth não dá trégua, mantendo pressão constante."
+      },
+      {
+        "name": "Swift Strike",
+        "description": "Ataques cortantes extremamente rápidos que testam os reflexos do jogador. Pouca janela de punição."
+      },
+      {
+        "name": "Guardian's Fury",
+        "description": "Combo devastador quando enraged. Aumenta velocidade e agressividade após perder HP."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sherma",
+    "role": "npc",
+    "description": "Um peregrino alegre e otimista que está numa jornada espiritual rumo à Cidadela. Ao contrário de Hornet, Sherma não possui qualquer habilidade de combate ou acrobacia, o que frequentemente o coloca em situações de perigo mortal onde precisa de ser resgatado. Ele representa os viajantes devotos e ingénuos que se aventuram pelos caminhos hostis de Pharloom.",
+    "image": "sherma"
+  },
+  {
+    "id": 5,
+    "name": "Shakra",
+    "role": "npc",
+    "description": "Uma guerreira determinada que viaja por Pharloom em busca de seu mestre perdido. Shakra atua como uma auxiliar fundamental para a exploração, vendendo ferramentas e marcadores de mapa para ajudar Hornet a se localizar. Pragmática e calejada, ela oferece suporte logístico enquanto investiga o destino dos guerreiros que vieram antes dela.",
+    "image": "shakra",
+    "shop": {
+      "items": [
+        {
+          "name": "Map Markers (Pins)",
+          "description": "Marcadores personalizáveis para o mapa. Permite anotar pontos de interesse, caminhos bloqueados e localizações importantes.",
+          "currency": "Geo",
+          "price": "60"
+        },
+        {
+          "name": "Compass Tool",
+          "description": "Ferramenta que auxilia na orientação pela vasta rede de Pharloom. Mostra a posição de Hornet no mapa.",
+          "currency": "Geo",
+          "price": "100"
+        },
+        {
+          "name": "Area Maps",
+          "description": "Mapas detalhados de regiões específicas de Pharloom. Vendidos individualmente conforme Hornet progride.",
+          "currency": "Geo",
+          "price": "80-150"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Nuu",
+    "role": "npc",
+    "description": "Uma criatura tímida e coberta de musgo que habita as profundezas da Moss Grotto. Mestre na arte da camuflagem, Nuu prefere esconder-se entre a vegetação a enfrentar os perigos de Pharloom. Encontrá-lo exige atenção aos detalhes do cenário, e ele representa os habitantes mais pacíficos e esquivos do reino, oferecendo momentos de calma em meio à hostilidade.",
+    "image": "nuu"
+  },
+  {
+    "id": 7,
+    "name": "Huntress",
+    "role": "npc",
+    "description": "Uma guerreira antiga e imponente que se dedica a caçar as bestas mais perigosas de Pharloom. Ela entrega a Hornet um registro de caça e oferece recompensas em troca de troféus específicos obtidos de inimigos derrotados. A Huntress respeita apenas a força e atua como uma guia para entender a ecologia hostil e os predadores do reino.",
+    "image": "huntress",
+    "shop": {
+      "items": [
+        {
+          "name": "Hunter's Journal",
+          "description": "Diário de caça que registra inimigos derrotados. Recompensas são dadas ao completar categorias.",
+          "currency": "Grátis",
+          "price": "0"
+        },
+        {
+          "name": "Trophy Rewards",
+          "description": "Geo e itens especiais em troca de provas de caça (troféus de inimigos raros ou bosses opcionais).",
+          "currency": "Troféus",
+          "price": "Varia"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Grindle",
+    "role": "npc",
+    "description": "Um contrabandista sorrateiro e oportunista que se encontra aprisionado nas áreas inferiores do reino. Em troca de Rosários, Grindle oferece informações valiosas e itens do mercado negro, agindo como um informante do submundo. Com um sorriso constante e moralidade duvidosa, ele é um aliado útil para quem está disposto a pagar o preço.",
+    "image": "grindle",
+    "shop": {
+      "items": [
+        {
+          "name": "Secret Information",
+          "description": "Informações sobre caminhos ocultos, atalhos secretos e localizações de tesouros raros em Pharloom.",
+          "currency": "Rosários",
+          "price": "1-3"
+        },
+        {
+          "name": "Black Market Tools",
+          "description": "Ferramentas e itens ilegais não disponíveis em outros comerciantes. Utilitários de crafteo raros.",
+          "currency": "Rosários",
+          "price": "2-5"
+        },
+        {
+          "name": "Rare Consumables",
+          "description": "Consumíveis poderosos do mercado negro, incluindo elixires e buffs temporários proibidos.",
+          "currency": "Rosários",
+          "price": "3-6"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Garmond & Zaza",
+    "role": "npc",
+    "description": "Uma dupla dinâmica e excêntrica de viajantes. Garmond é um cavaleiro barulhento e confiante que busca um novo lar no topo do reino, enquanto Zaza é sua leal, embora resignada, montaria. Eles funcionam como alívio cômico e companheiros recorrentes, aparecendo em momentos inusitados e trazendo um pouco de leveza à perigosa escalada de Pharloom.",
+    "image": "garmond-zaza"
+  },
+  {
+    "id": 10,
+    "name": "Forge Daughter",
+    "role": "npc",
+    "description": "Uma ferreira imponente e calorosa que dedica sua vida à arte da forja. Ela atua como a principal fonte de aprimoramento para o arsenal de Hornet, capaz de refinar a Agulha e potencializar ferramentas em troca de fragmentos e materiais. Sua paixão pelo fogo e pelo metal a torna uma aliada essencial para enfrentar as ameaças blindadas da Cidadela.",
+    "image": "forge-daughter",
+    "shop": {
+      "items": [
+        {
+          "name": "Needle Upgrade Tier 1",
+          "description": "Primeiro refinamento da Agulha. Aumenta dano base e alcance dos ataques de Thread.",
+          "currency": "Fragmentos de Ferro",
+          "price": "3"
+        },
+        {
+          "name": "Needle Upgrade Tier 2",
+          "description": "Segundo refinamento da Agulha. Desbloqueia novos combos e aumenta significativamente o dano.",
+          "currency": "Fragmentos de Aço",
+          "price": "5"
+        },
+        {
+          "name": "Tool Refinements",
+          "description": "Aprimora ferramentas equipáveis, aumentando eficácia, reduzindo custo de Seda ou adicionando efeitos.",
+          "currency": "Materiais Especiais",
+          "price": "Varia"
+        },
+        {
+          "name": "Shell Fortification",
+          "description": "Aumenta a resistência de Hornet, adicionando pontos de vida ou reduzindo dano recebido.",
+          "currency": "Carapaças Antigas",
+          "price": "4"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Fleas",
+    "role": "npc",
+    "description": "Pequenas criaturas viajantes que se separaram de sua caravana e estão perdidas nos cantos mais perigosos de Pharloom. Elas atuam como os colecionáveis de resgate do jogo, similar aos Grubs de Hollow Knight. Hornet deve encontrar e ajudar essas criaturas indefesas, que retornam para a segurança e recompensam a protagonista com recursos ou upgrades por sua bondade.",
+    "image": "fleas"
+  },
+  {
+    "id": 12,
+    "name": "Chapel Maid",
+    "role": "npc",
+    "description": "Uma serva devota que habita os santuários sagrados de Pharloom. Vestida com trajes cerimoniais, ela dedica sua existência à manutenção dos altares e à veneração da Canção Eterna. Sua presença é calma, mas inquietante, personificando a fé cega que permeia o reino; ela pode oferecer bênçãos ou itens litúrgicos, desde que o jogador respeite os rituais do Culto do Sino.",
+    "image": "chapel-maid"
+  },
+  {
+    "id": 13,
+    "name": "Carmelita",
+    "role": "boss",
+    "description": "Uma formiga cantora de ópera dramática e vaidosa que vê o mundo como seu palco pessoal. Encontrada nas áreas mais sofisticadas de Pharloom, ela preenche os salões com sua voz potente, tratando a jornada de Hornet ora como audiência, ora como crítica. Carmelita representa a aristocracia cultural do reino, preocupada mais com a beleza de sua performance do que com a decadência ao seu redor.",
+    "image": "carmelita"
+  },
+  {
+    "id": 14,
+    "name": "Phantom",
+    "role": "boss",
+    "description": "Uma entidade espectral e aterrorizante que assombra as áreas mais escuras de Pharloom. Diferente dos guerreiros físicos, o Phantom utiliza movimentos de teletransporte e ataques fantasmagóricos rápidos, tornando-se intocável na maior parte do tempo. Ele desafia a percepção de Hornet, exigindo reflexos aguçados para atacar nos breves momentos em que se materializa para golpear.",
+    "image": "phantom",
+    "abilities": [
+      {
+        "name": "Spectral Teleport",
+        "description": "Teletransporte instantâneo para qualquer ponto da arena. Phantom desaparece e reaparece de forma imprevisível."
+      },
+      {
+        "name": "Phantom Strike",
+        "description": "Ataque rápido durante breve materialização. Única janela para contra-atacar antes de se tornar intangível novamente."
+      },
+      {
+        "name": "Shadow Barrage",
+        "description": "Projéteis espectrais disparados de múltiplas direções enquanto permanece invisível. Requer movimento constante."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Trobbio",
+    "role": "npc",
+    "description": "Um mestre extravagante do palco e das artes marciais teatrais. Trobbio luta com um estilo dramático e veloz, tratando cada batalha como uma performance para uma plateia invisível. Com sua voz grandiosa e ataques coloridos que remetem a fogos de artifício, ele desafia a 'falta de elegância' de Hornet, misturando perigo letal com um espetáculo visual deslumbrante.",
+    "image": "trobbio",
+    "abilities": [
+      {
+        "name": "Theatrical Flourish",
+        "description": "Combo dramático de ataques acrobáticos. Cada golpe é precedido por uma pose exagerada, criando padrões visuais."
+      },
+      {
+        "name": "Firework Burst",
+        "description": "Explosões coloridas que funcionam como projéteis. Bonitas, mas mortais. Cobre área ampla da arena."
+      },
+      {
+        "name": "Grand Finale",
+        "description": "Ataque especial quando em baixo HP. Performance final com múltiplas explosões e movimentos erráticos."
+      }
+    ]
+  }
+]
